@@ -1,0 +1,5 @@
+# Lake build output and downloaded dependencies (mathlib etc., several GB)
+.lake/
+
+# macOS
+.DS_Store
